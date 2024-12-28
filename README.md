@@ -1,4 +1,13 @@
-# Projects Maintained by @davvid
+## @davvid
+
+<p align="left">
+  <a href="https://github.com/davvid"><img height="20" src="https://img.shields.io/github/followers/davvid?label=follow&logo=github&style=flat" /></a>
+  <a href="https://gitstar-ranking.com/davvid"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fdavvid%2Fshields" /></a>
+  <a href="https://gitstar-ranking.com/git-cola"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fgit-cola%2Fshields" /></a>
+  <a href="https://gitstar-ranking.com/jsonpickle"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fjsonpickle%2Fshields" /></a>
+</p>
+
+## Projects Maintained by @davvid
 
 * [Git Cola](https;//github.com/git-cola/git-cola) is the best Git GUI in the free world.
 
@@ -58,7 +67,7 @@ for a Debian/testing `distccd` worker node.
 `cProfile` data using `kcachegrind`.
 
 
-# Projects Co-Maintained by @davvid
+## Projects Co-Maintained by @davvid
 
 * [yaml-rust2](https://github.com/Ethiraric/yaml-rust2) is a pure Rust YAML implementation,
 co-maintained with @Ethiraric. This crate is a merger of the original `yaml-rust` crate,
@@ -72,7 +81,7 @@ PTC. Created by @aselle during his tenure at @wdas.
 Production Rendering. Created by @brentb.
 
 
-# Projects Contributed to by @davvid
+## Projects Contributed to by @davvid
 
 * [git](https://github.com/git/git) is the best version control software in the world.
 @davvid is the original author of [git difftool](https://git-scm.com/docs/git-difftool)
