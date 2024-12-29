@@ -17,9 +17,9 @@ loosely-coupled and inter-dependent Git worktrees.
 * [jsonpickle](https://github.com/jsonpickle/jsonpicle) is a Python library for
 converting Python objects to and from JSON. Jsonpickle can take almost any Python
 object, convert the object into JSON, and reconstitute the object back into Python.
-Originally created by [johnpaulett](https://github.com/johnpaulett).
-Maintained by [davvid](https://github.com/davvid) since 2008.
-Co-maintained with [Theelx](https://github.com/Theelx) since 2021.
+`jsonpickle` was originally created by [johnpaulett](https://github.com/johnpaulett) in 2008.
+`jsonpickle` has been maintained by davvid since 2009 and has been co-maintained with
+[Theelx](https://github.com/Theelx) since 2021.
 
 * [telescope-git-selector.nvim](https://github.com/davvid/telescope-git-selector.nvim)
 is a Neovim Telescope extension that searches for Git worktrees and opens files in the
@@ -85,9 +85,8 @@ Production Rendering. Ptex was created by [brentb](https://github.com/brentb).
 ## Projects Contributed to by davvid
 
 * [git](https://github.com/git/git) is the best version control software in the world.
-[davvid](https://github.com/davvid) is the original author of
-[git difftool](https://public-inbox.org/git/20081226013021.GA15414@gmail.com/).
-davvid helped maintain [git difftool](https://git-scm.com/docs/git-mergetool) and
+davvid is [the original author of git difftool](https://public-inbox.org/git/20081226013021.GA15414@gmail.com/)
+and helped maintain both [git difftool](https://git-scm.com/docs/git-mergetool) and
 [git mergetool](https://git-scm.com/docs/git-mergetool) into the 2010s.
 
 * [saphyr](https://github.com/saphyr-rs/saphyr/) is set of crates dedicated to parsing YAML.
