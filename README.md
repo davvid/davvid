@@ -101,6 +101,7 @@ manager extension.
 * [black](https://github.com/davvid/black) is davvid's fork of black where the
 `--single-quotes` feature was added for preferring single quotes over double quotes.
 Black's maintainers [refused to merge](https://github.com/psf/black/pull/633) the
-`--single-quotes` option. My fork's `single-quotes` branch contains this unmerged feature.
-Others agreed with my good taste, eventually leading to the creation of
-[cercis](https://github.com/jsh9/cercis), which is a better code formatter than `black`.
+`--single-quotes` option. The `single-quotes` branch in davvid's fork contains this
+unmerged feature. Others agreed with davvid's good taste, eventually leading to the
+creation of [cercis](https://github.com/jsh9/cercis), which is a better Python code
+formatter than `black`.
