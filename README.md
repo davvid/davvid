@@ -91,17 +91,25 @@ and helped maintain both [git difftool](https://git-scm.com/docs/git-mergetool) 
 
 * [saphyr](https://github.com/saphyr-rs/saphyr/) is set of crates dedicated to parsing YAML.
 
-* [neovim-qt PR 1101](https://github.com/equalsraf/neovim-qt/pull/1101) is where davvid
-updated `neovim-qt`, a Qt-based Neovim GUI, to avoid a flashing window blink on startup.
+* [neovim-qt](https://github.com/equalsraf/neovim-qt) is a Qt-based Neovim GUI.
 
-* [PaperWM PR 787](https://github.com/paperwm/PaperWM/pull/787) is where davvid added
-"loop" variants of the Window navigation hotkeys to the popular Gnome tiling window
-manager extension.
+* [PaperWM](https://github.com/paperwm/PaperWM) is a Tiling Window Manager extension for Gnome.
 
-* [black](https://github.com/davvid/black) is davvid's fork of black where the
-`--single-quotes` feature was added for preferring single quotes over double quotes.
-Black's maintainers [refused to merge](https://github.com/psf/black/pull/633) the
-`--single-quotes` option. The `single-quotes` branch in davvid's fork contains this
-unmerged feature. Others agreed with davvid's good taste, eventually leading to the
-creation of [cercis](https://github.com/jsh9/cercis), which is a better Python code
-formatter than `black`.
+
+## Interesting Projects Used by davvid
+
+* [Neovim](https://github.com/neovim/neovim) is davvid's editor of choice.
+
+* [schismtracker](https://schismtracker.org/) is a free and open-source reimplementation
+of Impulse Tracker, a program used to create high quality music without the requirements
+of specialized, expensive equipment, and with a unique "finger feel" that is difficult
+to replicate in part ([source](https://github.com/schismtracker/schismtracker)).
+
+* [abduco](https://github.com/davvid/abduco) is davvid's fork of
+[abduco](https://github.com/martanne/abduco) (a terminal session manager) which adds
+support for [displaying images when using kitty](https://github.com/martanne/abduco/pull/62).
+
+* [vimium](https://github.com/philc/vimium) brings vim keybindings to your web browser.
+
+* [Bringing Old Photos Back to Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+is a tool for restoring old photographs.
